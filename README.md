@@ -39,6 +39,9 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+<p align="center">
+  <img src="images/morning-forest.gif" alt="Morning Forest Banner" />
+</p>
 
 <!--
 **tienphatng237/tienphatng237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
