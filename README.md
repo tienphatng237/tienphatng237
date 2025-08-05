@@ -43,7 +43,3 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
   <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="1000" />
 </div>
 
-
-<div align="center">
-  <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="1000" />
-</div>
