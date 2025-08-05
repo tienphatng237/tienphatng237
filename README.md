@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Phat
-  
+   
 I'm a third-year student at the University of Information Technology – VNU-HCM, majoring in Computer Networks and Data Communications.  
 I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable systems with **Kubernetes**, **Docker**, and **CI/CD pipelines**.  
    
@@ -38,6 +38,11 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
+
+<div align="center">
+  <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="1000" />
+</div>
+
 
 <div align="center">
   <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="1000" />
