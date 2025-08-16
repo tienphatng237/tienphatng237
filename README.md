@@ -39,6 +39,12 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+## 📌 Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tienphatng237&repo=k3s-raspberry-pi-cluster&title_color=58a6ff&text_color=ccd6f6&icon_color=58a6ff&bg_color=0d1117)](https://github.com/tienphatng237/k3s-raspberry-pi-cluster)
+
+
+
 <div align="center">
   <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="1000" />
 </div>
