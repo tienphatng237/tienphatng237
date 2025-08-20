@@ -41,8 +41,7 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
 
 ## 📌 Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tienphatng237&repo=k3s-raspberry-pi-cluster&title_color=58a6ff&text_color=ccd6f6&icon_color=58a6ff&bg_color=0d1117)](https://github.com/tienphatng237/k3s-raspberry-pi-cluster)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tienphatng237&repo=NT131-P21-Kubernetes-RaspberryPi&title_color=58a6ff&text_color=ccd6f6&icon_color=58a6ff&bg_color=0d1117)](https://github.com/tienphatng237/NT131-P21-Kubernetes-RaspberryPi)
 
 
 <div align="center">
