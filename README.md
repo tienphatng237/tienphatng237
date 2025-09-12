@@ -35,8 +35,5 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
   <!-- PowerShell / Windows Terminal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
 
 
