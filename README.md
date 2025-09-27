@@ -26,6 +26,12 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Terraform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -34,6 +40,5 @@ I'm passionate about **DevOps**, **Cloud Infrastructure**, and building scalable
 
   <!-- PowerShell / Windows Terminal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-
-
+</p>
 
