@@ -42,3 +42,18 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
 
+## 🧩 Projects & Organizations
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/NT533-Q12-Distributed-Computing">
+        <img src="https://github.com/NT533-Q12-Distributed-Computing.png" width="70" height="70" alt="NT533-Q12-Distributed-Computing"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/NT533-Q12-Distributed-Computing">NT533-Q12-Distributed-Computing</a></b><br/>
+      A organization for Distributed Computing course at UIT — where we explore cloud infrastructure, microservices, and system performance.
+    </td>
+  </tr>
+</table>
