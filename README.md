@@ -35,15 +35,14 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
-<p align="left">
+  
   <!-- Bash / Command Line Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 
   <!-- PowerShell / Windows Terminal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
+
 
 ## 🧩 Projects & Organizations
 
