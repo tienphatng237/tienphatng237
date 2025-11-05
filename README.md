@@ -45,10 +45,28 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 
 ## 🧩 Projects & Organizations
 
-<div align="center">
-
-| <a href="https://github.com/NT531-Q11-EKS-Observability"><img src="https://github.com/NT531-Q11-EKS-Observability.png" width="90" height="90" alt="NT531-Q11-EKS-Observability"/><br/><b>NT531-Q11-EKS-Observability</b></a> | <a href="https://github.com/NT533-Q12-Distributed-Computing"><img src="https://github.com/NT533-Q12-Distributed-Computing.png" width="90" height="90" alt="NT533-Q12-Distributed-Computing"/><br/><b>NT533-Q12-Distributed-Computing</b></a> |
-|:--:|:--:|
-| An organization for Cloud-Native Monitoring & Observability Stack on Amazon EKS — integrating Prometheus, Grafana, Loki, Tempo and Icinga. | An organization for Distributed Computing course at UIT — where we explore cloud infrastructure, microservices, and system performance. |
-
-</div>
+<table>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/NT531-Q11-EKS-Observability">
+        <img src="https://github.com/NT531-Q11-EKS-Observability.png" width="70" height="70" alt="NT531-Q11-EKS-Observability"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/NT531-Q11-EKS-Observability">NT531-Q11-EKS-Observability</a></b><br/>
+      An organization for Cloud-Native Monitoring & Observability Stack on Amazon EKS — integrating Prometheus, Grafana, Loki, Tempo and Icinga.
+    </td>
+  </tr>
+        
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/NT533-Q12-Distributed-Computing">
+        <img src="https://github.com/NT533-Q12-Distributed-Computing.png" width="70" height="70" alt="NT533-Q12-Distributed-Computing"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/NT533-Q12-Distributed-Computing">NT533-Q12-Distributed-Computing</a></b><br/>
+      An organization for Distributed Computing course at UIT — where we explore cloud infrastructure, microservices, and system performance.
+    </td>
+  </tr>
+</table>
