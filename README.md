@@ -41,6 +41,16 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 
   <!-- PowerShell / Windows Terminal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+
+  <!-- Prometheus -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+
+  <!-- Grafana -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+
+  <!-- Loki -->
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki" width="40" height="40"/>
+
 </p>
 
 ## 🧩 Projects & Organizations
