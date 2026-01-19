@@ -55,7 +55,7 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 
 </p>
 
-## 🧩 Projects & Organizations
+<!-- ## 🧩 Projects & Organizations
 
 <table>
   <tr>
@@ -81,7 +81,8 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
       An organization for Distributed Computing course at UIT — where we explore cloud infrastructure, microservices, and system performance.
     </td>
   </tr>
-</table>
+</table> -->
+
 
 
 <p align="center">
