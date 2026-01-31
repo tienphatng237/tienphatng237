@@ -87,6 +87,6 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
   <img src="images/morning-forest.gif" alt="Morning Forest Banner" width="100%" />
-</p>
+</p> -->
