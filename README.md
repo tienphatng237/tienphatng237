@@ -55,6 +55,14 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
   <!-- Prometheus -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
 
+  <!-- Jenkins -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="vertical-align: middle;" />
+
+  <!-- GitHub Actions -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" style="vertical-align: middle;" />
+
+  <!-- Argo CD -->
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" alt="Argo CD" width="40" height="40" style="vertical-align: middle;" />
 </p>
 
 ## 🧩 Projects & Organizations
