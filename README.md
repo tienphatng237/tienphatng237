@@ -46,6 +46,9 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
   <!-- PowerShell / Windows Terminal -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 
+  <!-- Packer -->
+  <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" width="40" height="40"/>
+
   <!-- Loki -->
   <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki" width="40" height="40"/>
   
