@@ -73,8 +73,8 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
 <table>
   <tr>
     <td width="100" align="center">
-      <a href="https://github.com/NT531-Q11-EKS-Observability">
-        <img src="https://github.com/NT531-Q11-EKS-Observability.png" width="70" height="70" alt="NT531-Q11-EKS-Observability"/>
+      <a href="https://github.com/NT531-Q11-EKS-Observability-Tools">
+        <img src="https://github.com/NT531-Q11-EKS-Observability-Tools.png" width="70" height="70" alt="NT531-Q11-EKS-Observability-Tools"/>
       </a>
     </td>
     <td>
