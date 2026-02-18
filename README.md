@@ -78,7 +78,7 @@ I’m deeply interested in DevOps and Cloud Infrastructure, where I focus on bui
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/NT531-Q11-EKS-Observability">NT531-Q11-EKS-Observability</a></b><br/>
+      <b><a href="https://github.com/NT531-Q11-EKS-Observability-Tools">NT531-Q11-EKS-Observability-Tools</a></b><br/>
       An organization for Cloud-Native Monitoring & Observability Stack on Amazon EKS — integrating Prometheus, Grafana, Loki, Tempo and Icinga.
     </td>
   </tr>
