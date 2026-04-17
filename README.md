@@ -30,7 +30,9 @@ I design and operate highly available, fault-tolerant systems across cloud envir
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="40" style="display:inline-block; margin:5px"/>
 </p>
 
-## 🧩 Projects & Organizations
+<hr> 
+
+<!-- ## 🧩 Projects & Organizations
 
 <table>
   <tr>
